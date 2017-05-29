@@ -1,7 +1,7 @@
 ﻿<!DOCTYPE html>
 <html lang="pt-br">
 <head>
-  <title>Login - Vai Achar!!!</title>
+  <title>Teste - Vai Achar!!!</title>
   
   <meta charset="utf-8">
   <meta name="author" content="Felipe de Sousa Martins - Claro BA/SE (92034302)">
